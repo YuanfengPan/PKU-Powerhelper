@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="erjiao_1.jpg">C:/Users/pyh/Desktop/111/erjiao_1.jpg</file>
+<file alias="erjiao_2.jpg">C:/Users/pyh/Desktop/111/erjiao_2.jpg</file>
+<file alias="erjiao_3.jpg">C:/Users/pyh/Desktop/111/erjiao_3.jpg</file>
+<file alias="erjiao_4.jpg">C:/Users/pyh/Desktop/111/erjiao_4.jpg</file>
+<file alias="erjiao_5.jpg">C:/Users/pyh/Desktop/111/erjiao_5.jpg</file>
+<file alias="Logo.png">C:/Users/pyh/Desktop/111/Logo.png</file>
+<file alias="pkumap.png">C:/Users/pyh/Desktop/111/pkumap.png</file>
+<file alias="pkudoor.jpg">C:/Users/pyh/Desktop/111/pkudoor.jpg</file>
+<file alias="erjiao.png">C:/Users/pyh/Desktop/111/erjiao.png</file>
+<file alias="chazuobg.png">C:/Users/pyh/Desktop/111/chazuobg.png</file>
+<file alias="chazuo.jpg">C:/Users/pyh/Desktop/111/chazuo.jpg</file>
+<file alias="chazuo.png">C:/Users/pyh/Desktop/111/chazuo.png</file>
+<file alias="lijiao.jpg">C:/Users/pyh/Desktop/111/lijiao.jpg</file>
+<file alias="lijiao.txt">C:/Users/pyh/Desktop/111/lijiao.txt</file>
+</qresource>
+</RCC>
